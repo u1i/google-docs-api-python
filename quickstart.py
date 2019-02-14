@@ -9,7 +9,8 @@ from google.auth.transport.requests import Request
 SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 
 # The ID of a sample document.
-DOCUMENT_ID = '195j9eDD3ccgjQRttHhJPymLJUCOUjs-jmwTrekvdjFE'
+# DOCUMENT_ID = '195j9eDD3ccgjQRttHhJPymLJUCOUjs-jmwTrekvdjFE'
+DOCUMENT_ID = '132GyQigL2CAf1yw-rDLa-tJOWXyvp9GwDhIBNtSXvuY'
 
 def main():
     """Shows basic usage of the Docs API.
